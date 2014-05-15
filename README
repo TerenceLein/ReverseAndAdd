@@ -1,0 +1,7 @@
+Reverse and Add - c++ Code Eval medium challenge
+
+Given an integer < 10,000, reverse the integer and add the two.
+If the sum is a palindrome, print the number of iterations (i.e.
+reversals and additions) and the result.
+If not a palindrome, repeat the reversal and add until the
+result is a palindrome.
